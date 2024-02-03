@@ -8,3 +8,4 @@ I built this project to demonstrate basic website interactivity and various desi
 
 Through the creation of this project, I learned how various CSS and HTML elements and classes affect a website's appearance and interactivity. Thus, I have mastered how to use them to make a website really stand out.
 
+# This website was created by using starter code from Georgeyoo on GitHub
